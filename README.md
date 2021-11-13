@@ -5,4 +5,3 @@ PS: My programming skills are not the best, there is much to improve in the code
 
 ## Downloads
 GitHub: [Release](https://github.com/ZrCulillo/JIT-Freezer/releases/download/1.0/JITFreezer.zip)
-
